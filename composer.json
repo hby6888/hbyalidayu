@@ -1,0 +1,20 @@
+{
+    "name": "hby6888/hby-alidayu",
+    "description": "composer require hby6888/hby-alidayu",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hby",
+            "email": "77162931@qq.com"
+        }
+    ],
+    "require": {
+         "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "alidayu\\": "top"
+        }
+    }
+}
